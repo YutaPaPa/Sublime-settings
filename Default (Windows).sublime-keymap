@@ -1,0 +1,5 @@
+[
+	{ "keys": ["alt+m"], "command": "markdown_preview_select", "args": {"target": "browser"}},
+	{ "keys": ["command+s"], "command": "browser_refresh", "args":
+    	{"auto_save": true,"delay": 0.0,"activate_browser": true,"browser_name" : "all"}}
+]
